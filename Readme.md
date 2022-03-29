@@ -47,7 +47,9 @@ In CHATBOTproject you will find :
 | **configuration** | config | Requirements.txt |
 
 ## Configuration
-**config** contain discord token to connect the chatbot.
+**config** contain discord token to connect the chatbot. 
+THE TOKEN IS NOT THE GOOD ONE BECAUSE DISCORD DONT ALLOW TO PUBLISH IT ONLINE
+
 **Requirements.txt** contain the needed librairies to run the app
 
 ## Python
