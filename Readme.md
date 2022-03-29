@@ -113,7 +113,7 @@ Stellar Tactics
 ...
 - WIDE CROSS 
 - >Ok let s switch to WIDE CROSS What do you want to know ? (>help< if you want some ideas)
-- at which age can i play this game
+- at what age I can play this game
 - >WIDE CROSS require to be older than 0 years old
 - can I get information about this game
 - >WIDE CROSS costs 0 $. 
