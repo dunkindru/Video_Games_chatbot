@@ -4,10 +4,15 @@ Chatbot and Recommender System final project in ESILV A4 in 2022.
 This project is a python application, developed by Daniel Lévy and Joshua Jeyaratnam.
 
 Github:
+
 https://github.com/dunkindru/Video_Games_chatbot
+
 Videos:
+
 running the app guide: https://youtu.be/lBvjEsJ7M5k
+
 chatbot guide : https://www.youtube.com/watch?v=-L3_apstqfA
+
 Link to connect the chatbot you have to invite it in a discord server:
 
 https://discord.com/oauth2/authorizeclient_id=951418595987050597&scope=bot&permissions=8
