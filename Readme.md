@@ -5,7 +5,7 @@ This project is a python application, developed by Daniel Lévy and Joshua Jeyar
 
 Link to connect the chatbot you have to invite it in a discord server:
 
-https://discord.com/oauth2/authorizeclient_id=951418595987050597&scope=bot&permissions=8
+
  
 There are here two projects in one ( **chatbot** + **recommender system**). 
 
