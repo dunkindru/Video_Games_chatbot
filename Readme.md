@@ -3,6 +3,9 @@
 Chatbot and Recommender System final project in ESILV A4 in 2022.
 This project is a python application, developed by Daniel Lévy and Joshua Jeyaratnam.
 
+⚠️THE TOKEN IS NOT THE GOOD ONE BECAUSE DISCORD DONT ALLOW TO PUBLISH IT ONLINE⚠️ 
+ask for the token by email
+
 Github:
 
 https://github.com/dunkindru/Video_Games_chatbot
@@ -48,6 +51,7 @@ In CHATBOTproject you will find :
 
 ## Configuration
 **config** contain discord token to connect the chatbot. 
+
 THE TOKEN IS NOT THE GOOD ONE BECAUSE DISCORD DONT ALLOW TO PUBLISH IT ONLINE
 
 **Requirements.txt** contain the needed librairies to run the app
