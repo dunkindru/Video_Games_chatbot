@@ -37,7 +37,8 @@ During your exchanges the bot gets to know you and thanks to a database containi
  3. enter the folder >**cd** *your path for* /CHATBOTproject<  
  4. install the libraries via **Requirements.txt**. 
  5. launch the app with the command >**python app.py**< in the terminal
- 
+ 6.Link to connect the chatbot you have to invite it in a discord server :
+ https://discord.com/oauth2/authorizeclient_id=951418595987050597&scope=bot&permissions=8
 Each time you launch python app.py the user memory will be re-initialized and the recommender system will consider you as a different user (as well when you say bye).
 
 
